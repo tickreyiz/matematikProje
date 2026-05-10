@@ -1,0 +1,4 @@
+lcg: z=-0.5000, p=0.6171, karar=BAĞIMSIZ
+mersenne: z=0.2600, p=0.7949, karar=BAĞIMSIZ
+xorshift: z=0.9800, p=0.3271, karar=BAĞIMSIZ
+atmospheric: z=-0.7000, p=0.4839, karar=BAĞIMSIZ

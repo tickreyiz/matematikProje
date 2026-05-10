@@ -1,0 +1,4 @@
+lcg: chi2=9.7580, p=0.3704, karar=DÜZGÜN
+mersenne: chi2=5.7980, p=0.7600, karar=DÜZGÜN
+xorshift: chi2=14.4660, p=0.1067, karar=DÜZGÜN
+atmospheric: chi2=11.4000, p=0.2493, karar=DÜZGÜN
